@@ -13,3 +13,4 @@
 + <a href="https://github.com/pan6603/todo-list-app/blob/main/%EC%84%B9%EC%85%98.2%20%ED%95%A0%EC%9D%BC%20%EB%AA%A9%EB%A1%9D%20%EC%95%B1(Todo%20List%20App)%EA%B8%B0%EB%B3%B8/5.%20%ED%95%A0%EC%9D%BC%20%EC%99%84%EB%A3%8C%20%EB%AF%B8%EC%99%84%EB%A3%8C%20%EC%A0%84%ED%99%98%20%ED%95%A8%EC%88%98.md">5. 할일 완료/미완료 전환 함수</a>
 + <a href="https://github.com/pan6603/todo-list-app/blob/main/%EC%84%B9%EC%85%98.2%20%ED%95%A0%EC%9D%BC%20%EB%AA%A9%EB%A1%9D%20%EC%95%B1(Todo%20List%20App)%EA%B8%B0%EB%B3%B8/6.%20%EC%88%98%EC%A0%95%2C%20%EC%82%AD%EC%A0%9C%20%ED%95%A8%EC%88%98.md">6. 수정, 삭제 함수</a>
 + <a href="https://github.com/pan6603/todo-list-app/blob/main/%EC%84%B9%EC%85%98.2%20%ED%95%A0%EC%9D%BC%20%EB%AA%A9%EB%A1%9D%20%EC%95%B1(Todo%20List%20App)%EA%B8%B0%EB%B3%B8/7.%20%ED%95%A0%EC%9D%BC%20%EC%9E%85%EB%A0%A5.md">7. 할일 입력</a>
++ <a href="">8. 할일 출력</a>
