@@ -18,7 +18,7 @@
 ### 섹션.3 할일 목록 앱(Todo List App)활용
 + <a href="https://github.com/pan6603/todo-list-app/blob/main/%EC%84%B9%EC%85%98.3%20%ED%95%A0%EC%9D%BC%20%EB%AA%A9%EB%A1%9D%20%EC%95%B1/%ED%95%A0%EC%9D%BC%20%EC%88%98%EC%A0%95%20-%20UI%20%EA%B5%AC%ED%98%84.md">할일 수정 - UI 구현</a>
 + <a href="https://github.com/pan6603/todo-list-app/blob/main/%EC%84%B9%EC%85%98.3%20%ED%95%A0%EC%9D%BC%20%EB%AA%A9%EB%A1%9D%20%EC%95%B1/%ED%95%A0%EC%9D%BC%20%EC%B2%B4%ED%81%AC%ED%95%98%EA%B8%B0.md">할일 체크하기</a>
-+ <a href="">할일 수정하기</a>
++ <a href="https://github.com/pan6603/todo-list-app/blob/main/%EC%84%B9%EC%85%98.3%20%ED%95%A0%EC%9D%BC%20%EB%AA%A9%EB%A1%9D%20%EC%95%B1/%ED%95%A0%EC%9D%BC%20%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.md">할일 수정하기</a>
 
 
 
