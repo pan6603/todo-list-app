@@ -23,4 +23,7 @@
 ### 메모 정리
 + 깃허브와 연동하기 위해 새로운 저장소를 만든다. 
 + VsCode 툴 터미널을 연다. > Git 명령어 통해서 프로젝트 커밋한다.
-+ 깃허브 계정 관리 잘하기 
++ 깃허브 계정 관리 잘하기
+
+### 앱 배포 URL 
++ <a href="https://web-todo-ts-yudw.vercel.app/">Todo-List-App</a>
